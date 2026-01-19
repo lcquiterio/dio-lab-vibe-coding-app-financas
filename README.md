@@ -1,6 +1,5 @@
 # 💸 App de Organização Financeira de LCQUITERIO
-
-> Meu PRD final feito com o Copilot
+> Meu PRD final feito com o Copilot para o projeto de Inteligência Artificial da Caixa Econômica Federal junto com a DIO.
 
 # PRD – Vibe de Finanças
 
@@ -78,6 +77,10 @@ Este projeto busca oferecer uma solução que simplifique o processo, torne-o ma
 - **80% dos usuários** relatam clareza nos relatórios e gráficos.  
 - **Redução de 50%** no tempo médio gasto para registrar uma transação em comparação com apps tradicionais.  
 - **Alta taxa de engajamento**: usuários acessam o app pelo menos 3 vezes por semana.  
+
+
+
+## Site final (Versão 1): https://lcquiterio.github.io/vibedefinancas/
 
 
 
